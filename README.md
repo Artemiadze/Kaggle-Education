@@ -7,12 +7,9 @@
 ```
 Kaggle-Education/
 ├── Courses/            # Jupyter-ноутбуки с материалом курсов от Kaggle
-├── Deep_Learning_With_Pytorch/           # Jupyter-ноутбуки с описанием работы Pytorch в Deep learning 
 ├── House Pricing/             # Jupyter-ноутбук с решением  соревнования 'House Pricing'
 ├── Titanic/           # Jupyter-ноутбук с решением  соревнования 'Titanic'
 ├── README.md            # Описание репозитория
-├── LLM             # Jupyter-ноутбуки с материалом по LLM
-├── Data Science        # Материалы по Data Science и практические работы
 ```
 
 ## 🚀 Как начать работу
