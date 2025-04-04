@@ -35,6 +35,31 @@ jupyter notebook
 - **Matplotlib, Seaborn**
 - **Jupyter Notebook**
 
+## Accomplishments
+<p align="center"> 
+    <img align="center"  src="Certificates/Vlasov_Artyom - Intro to Machine Learning.png"/>
+</p> 
+
+<p align="center"> 
+    <img align="center"  src="Certificates/Vlasov_Artyom - Intermediate Machine Learning.png"/>
+</p> 
+
+<p align="center"> 
+    <img align="center"  src="Certificates/Vlasov_Artyom - Pandas.png"/>
+</p>
+
+<p align="center"> 
+    <img align="center"  src="Certificates/Vlasov_Artyom - Intro to Deep Learning.png"/>
+</p> 
+
+<p align="center"> 
+    <img align="center"  src="Certificates/Vlasov_Artyom - Data Visualization.png"/>
+</p> 
+
+<p align="center"> 
+    <img align="center"  src="Certificates/Vlasov_Artyom - Feature Engineering.png"/>
+</p> 
+
 ## 🏆 Полезные ресурсы
 - [Kaggle Learn](https://www.kaggle.com/learn) – обучающие курсы от Kaggle
 - [UvA DL Notebooks](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) - учебное пособие по глубинному обучению
