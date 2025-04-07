@@ -3,14 +3,6 @@
 ## 📌 Описание
 Этот репозиторий содержит образовательные материалы, ноутбуки и ресурсы, связанные с соревнованиями на Kaggle, Mashing и Deep Learning. Здесь собраны примеры решений, объяснения алгоритмов и полезные техники машинного обучения и анализа данных.
 
-## 📂 Структура репозитория
-```
-Kaggle-Education/
-├── Courses/            # Jupyter-ноутбуки с материалом курсов от Kaggle
-├── House Pricing/             # Jupyter-ноутбук с решением  соревнования 'House Pricing'
-├── Titanic/           # Jupyter-ноутбук с решением  соревнования 'Titanic'
-├── README.md            # Описание репозитория
-```
 
 ## 🚀 Как начать работу
 ### 1. Клонируйте репозиторий:
@@ -24,8 +16,6 @@ jupyter notebook
 ```
 Откройте ноутбуки из папки `notebooks/` и изучайте примеры решений.
 
-## 📊 Соревнования и решения
-В репозитории представлены разборы и решения различных соревнований Kaggle. Для каждого соревнования приводится анализ данных, исследование признаков, построение моделей и оценка результатов.
 
 ## 🛠 Используемые технологии
 - **Python**
@@ -36,24 +26,14 @@ jupyter notebook
 - **Jupyter Notebook**
 
 ## Accomplishments
-<p align="center"> 
-    <img align="center"  src="Certificates/Vlasov_Artyom - Intro to Machine Learning.png"/>
-</p> 
+Здесь [представлены]('/Certificates') все мои дипломы о прохождении курсов на платформе Kaggle, в том числе:
 
 <p align="center"> 
     <img align="center"  src="Certificates/Vlasov_Artyom - Intermediate Machine Learning.png"/>
 </p> 
 
 <p align="center"> 
-    <img align="center"  src="Certificates/Vlasov_Artyom - Pandas.png"/>
-</p>
-
-<p align="center"> 
     <img align="center"  src="Certificates/Vlasov_Artyom - Intro to Deep Learning.png"/>
-</p> 
-
-<p align="center"> 
-    <img align="center"  src="Certificates/Vlasov_Artyom - Data Visualization.png"/>
 </p> 
 
 <p align="center"> 
