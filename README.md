@@ -37,6 +37,10 @@ jupyter notebook
 </p> 
 
 <p align="center"> 
+    <img align="center"  src="Certificates/Vlasov_Artyom - Computer Vision.png"/>
+</p> 
+
+<p align="center"> 
     <img align="center"  src="Certificates/Vlasov_Artyom - Feature Engineering.png"/>
 </p> 
 
